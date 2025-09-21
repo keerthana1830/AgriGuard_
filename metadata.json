@@ -1,0 +1,8 @@
+{
+  "name": "AgriGuard ML Dashboard",
+  "description": "An interactive dashboard for agricultural pest detection using image analysis. It provides gamified feedback on infection levels and pesticide usage, with a history tracker and savings graph.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
